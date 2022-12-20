@@ -8,7 +8,7 @@ const Header = () => {
       <header className="bg-gray-900 text-white">
         <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
           <div className="mx-auto max-w-3xl text-center">
-            <img src='./src/assets/perfil.jpg' className='w-60 h-60 rounded-full mx-auto'/>
+            <img src='/assets/perfil.43f9027a.jpg' className='w-60 h-60 rounded-full mx-auto'/>
             <h1 className="bg-[radial-gradient(ellipse_at_top_left,_var(--tw-gradient-stops))] from-blue-100 via-blue-300 to-blue-500 bg-clip-text text-2xl font-extrabold text-transparent sm:text-7xl">
               Lucas De Palma
             </h1>
