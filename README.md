@@ -1,5 +1,5 @@
 
-# Portfolio Lucas De Palma
+# 👨‍💻 Portfolio Lucas De Palma
 
 Page to show my projects and also tell a little about me
 
