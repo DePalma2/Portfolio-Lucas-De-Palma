@@ -1,4 +1,5 @@
 import React from 'react'
+import Certificates from './Certificates'
 import Projects from './Projects'
 import Timeline from './Timeline'
 
@@ -11,6 +12,7 @@ const Portfolio = () => {
                 <p className='text-sm max-w-xl mb-6'>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona qu</p>
                 <Timeline/>
                 <Projects/>
+                <Certificates/>
             </div>
         </section>
     </>
