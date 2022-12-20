@@ -26,5 +26,12 @@ export default [
         "year": "2021 - 2022",
         "url": "https://github.com/DePalma2/ollivanders-market",
         "technologies": ["HTML", "CSS", "PHP", "JavaScript", "Bootstrap"]
+    },
+    {
+        "name": "Simple Crypto APP",
+        "description": "Proyecto de aplicacion que lista los mejores exchanges y criptomonedas",
+        "year": "2022",
+        "url": "https://github.com/DePalma2/app-crypto",
+        "technologies": ["React Native", "Expo", "JavaScript", "Axios", "React Navigation"]
     }
 ]
