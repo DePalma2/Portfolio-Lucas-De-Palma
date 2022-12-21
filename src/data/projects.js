@@ -33,5 +33,12 @@ export default [
         "year": "2022",
         "url": "https://github.com/DePalma2/app-crypto",
         "technologies": ["React Native", "Expo", "JavaScript", "Axios", "React Navigation"]
+    },
+    {
+        "name": "Portfolio",
+        "description": "Pagina para conocer mas sobre mi y mis proyectos",
+        "year": "2022",
+        "url": "https://github.com/DePalma2/Portfolio-Lucas-De-Palma",
+        "technologies": ["React JS", "Vite", "Tailwind", "React Icons"]
     }
 ]
