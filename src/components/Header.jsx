@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedinIn, FaRegEnvelope } from "react-icons/fa";
 const Header = () => {
   return (
     <>
-      <header className="bg-gray-900 text-white">
+      <header className="bg-header text-white">
         <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
           <div className="mx-auto max-w-3xl text-center">
             <img src='/assets/perfil.43f9027a.jpg' className='w-60 h-60 rounded-full mx-auto'/>
