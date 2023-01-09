@@ -1,7 +1,7 @@
 export default [
     {
         "name": "Harry Potter API Rest",
-        "description": "En este proyecto desarrolle una api enfocada al mundo de Harry Potter, inclui en este proyecto la mayor informacion que pude encontrar sobre este mundo",
+        "description": "API enfocada al mundo de Harry Potter, podran consumir todo tipo de informacion perteneciente a esta saga",
         "year": "2022",
         "url": "https://github.com/DePalma2/api-rest-harry-potter",
         "technologies": ["Java", "Spring Boot", "MySQL", "JPA", "Spring Security"]
@@ -15,21 +15,21 @@ export default [
     },
     {
         "name": "AlkemyBank",
-        "description": "Proyecto desarrollado para la acceleracion de Alkemy, este proyecto trata de simular un HomeBanking, se pueden realizar multiples operacion desde transferir dinero hasta enviarlo a otros usuarios tambien cuenta con un dashboard para acceder a dichas operaciones",
+        "description": "Desarrollado para la acceleracion de Alkemy, este proyecto trata de simular un HomeBanking, se pueden realizar multiples operacion desde transferir dinero hasta enviarlo a otros usuarios tambien cuenta con un dashboard para acceder a dichas operaciones",
         "year": "2022",
         "url": "https://github.com/AllegriM/Skill-Up-React-G6",
         "technologies": ["React JS", "Axios", "Tailwind", "React Router"]
     },
     {
         "name": "Ollivander's Market",
-        "description": "En este proyecto se desarrollo una pagina con tematica del mundo de Harry Potter",
+        "description": "Carrito de compras con la temática de Harry Potter",
         "year": "2021 - 2022",
         "url": "https://github.com/DePalma2/ollivanders-market",
         "technologies": ["HTML", "CSS", "PHP", "JavaScript", "Bootstrap"]
     },
     {
         "name": "Simple Crypto APP",
-        "description": "Proyecto de aplicacion que lista los mejores exchanges y criptomonedas",
+        "description": "Aplicacion que lista los mejores exchanges y criptomonedas",
         "year": "2022",
         "url": "https://github.com/DePalma2/app-crypto",
         "technologies": ["React Native", "Expo", "JavaScript", "Axios", "React Navigation"]
